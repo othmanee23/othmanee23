@@ -129,9 +129,9 @@ I spend most of my time somewhere between clean architecture, fast interfaces, c
 I like ambitious ideas, good design, and people who care about the details.  
 Find me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-33006F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-33006F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-makroum-767371270/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-33006F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![Email](https://img.shields.io/badge/Email-33006F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:othmane.makroum23@gmail.com)
 
 ---
 
