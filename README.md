@@ -121,7 +121,6 @@ I spend most of my time somewhere between clean architecture, fast interfaces, c
 - **Production web applications** — full-stack work with Next.js and CMS-powered architectures.
 - **Performance & search** — Core Web Vitals, technical SEO, accessibility, and structured data.
 - **E-commerce & product experiences** — storefront features, integrations, and interface improvements.
-- **ORAXON** — entrepreneurial projects, from client work to software products.
 
 > **Pinned repositories** below are where the code gets to do the talking.
 
