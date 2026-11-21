@@ -85,7 +85,6 @@ I spend most of my time somewhere between clean architecture, fast interfaces, c
 - 🛠️ Mostly working with **Next.js, React, TypeScript, Tailwind CSS & Payload CMS**.
 - ⚡ Into **performance, technical SEO, and Core Web Vitals** — because fast is a feature.
 - 🪄 Exploring **GSAP, motion, creative frontends, and websites that don't look like every other website**.
-- 🚀 Co-founded **ORAXON** and learned that shipping products is very different from just shipping code.
 - 🧠 Current side quest: making the web feel a little less predictable.
 
 ### `> stack --list`
